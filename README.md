@@ -15,9 +15,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/lovebabu1122/LeetCode/tree/master/0027-remove-element) |
 | [0344-reverse-string](https://github.com/lovebabu1122/LeetCode/tree/master/0344-reverse-string) |
 ## Math
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/lovebabu1122/LeetCode/tree/master/0007-reverse-integer) |
+## Array
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/lovebabu1122/LeetCode/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
