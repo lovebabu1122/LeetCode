@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/lovebabu1122/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/lovebabu1122/LeetCode/tree/master/0027-remove-element) |
 | [0344-reverse-string](https://github.com/lovebabu1122/LeetCode/tree/master/0344-reverse-string) |
 ## Math
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/lovebabu1122/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/lovebabu1122/LeetCode/tree/master/0027-remove-element) |
 ## Divide and Conquer
 |  |
