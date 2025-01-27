@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/lovebabu1122/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/lovebabu1122/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/lovebabu1122/LeetCode/tree/master/0009-palindrome-number) |
 ## Array
@@ -36,4 +37,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/lovebabu1122/LeetCode/tree/master/0191-number-of-1-bits) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/lovebabu1122/LeetCode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/lovebabu1122/LeetCode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
